@@ -1,8 +1,12 @@
 {
-    "name": "UXF",
-    "rootNamespace": "UXF",
-    "references": [],
-    "includePlatforms": [],
+    "name": "UXF.EditorUtils",
+    "rootNamespace": "UXF.EditorUtils",
+    "references": [
+        "GUID:b5871c7ad6f797a43b743df72d6a0a3f"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,
